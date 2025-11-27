@@ -1,0 +1,17 @@
+{"received_at": "2025-11-27T09:16:41.814771", "data": {"id": 1, "sensor_id": 1, "value": 23.5, "timestamp": "2025-11-27T09:16:38.565768", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T09:16:42.171197", "data": {"id": 2, "sensor_id": 2, "value": 18.9, "timestamp": "2025-11-27T09:16:38.565779", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T09:16:42.673271", "data": {"id": 3, "sensor_id": 1, "value": 24.1, "timestamp": "2025-11-27T09:16:38.565781", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T09:16:43.176379", "data": {"id": 4, "sensor_id": 3, "value": 19.7, "timestamp": "2025-11-27T09:16:38.565782", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T09:16:43.677354", "data": {"id": 5, "sensor_id": 2, "value": 22.3, "timestamp": "2025-11-27T09:16:38.565783", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T09:20:14.188813", "data": {"id": 6, "sensor_id": 6, "value": 25.8, "timestamp": "2025-11-27T09:19:50.874012", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T09:20:14.691721", "data": {"id": 7, "sensor_id": 7, "value": 20.1, "timestamp": "2025-11-27T09:19:50.874027", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T11:21:38.370200", "data": {"id": 8, "sensor_id": 1, "value": 23.5, "timestamp": "2025-11-27T11:21:33.732773", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T11:21:38.845153", "data": {"id": 9, "sensor_id": 2, "value": 18.9, "timestamp": "2025-11-27T11:21:33.732781", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T11:21:39.353932", "data": {"id": 10, "sensor_id": 1, "value": 24.1, "timestamp": "2025-11-27T11:21:33.732782", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T11:21:39.877898", "data": {"id": 11, "sensor_id": 3, "value": 19.7, "timestamp": "2025-11-27T11:21:33.732782", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T11:21:40.346120", "data": {"id": 12, "sensor_id": 2, "value": 22.3, "timestamp": "2025-11-27T11:21:33.732783", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T13:14:20.325750", "data": {"id": 13, "sensor_id": 1, "value": 23.5, "timestamp": "2025-11-27T13:14:18.227834", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T13:14:20.831518", "data": {"id": 14, "sensor_id": 2, "value": 18.9, "timestamp": "2025-11-27T13:14:18.227842", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T13:14:21.332910", "data": {"id": 15, "sensor_id": 1, "value": 24.1, "timestamp": "2025-11-27T13:14:18.227843", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T13:14:21.835008", "data": {"id": 16, "sensor_id": 3, "value": 19.7, "timestamp": "2025-11-27T13:14:18.227844", "source": "local_sqlite", "version": "2.0"}}
+{"received_at": "2025-11-27T13:14:22.337049", "data": {"id": 17, "sensor_id": 2, "value": 22.3, "timestamp": "2025-11-27T13:14:18.227845", "source": "local_sqlite", "version": "2.0"}}
